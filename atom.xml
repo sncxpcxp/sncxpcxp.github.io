@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-11T12:59:08.885Z</updated>
+  <updated>2018-10-11T14:03:15.001Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/10/10/%E5%BC%80%E5%90%AF%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E4%B9%8B%E6%97%85/"/>
     <id>http://yoursite.com/2018/10/10/开启我的博客之旅/</id>
     <published>2018-10-10T10:52:32.000Z</published>
-    <updated>2018-10-11T12:59:08.885Z</updated>
+    <updated>2018-10-11T14:03:15.001Z</updated>
     
     <content type="html"><![CDATA[<p>#建博客心得体会<br>一分耕耘，一分收获。历经很长时间的踩坑之路之后，我终于成功的搭建了自己的博客，下面，来说说我主要踩的坑吧。希望大家在自己搭建博客的时候可以参考一下。<br><strong>在下载，安装git时</strong><br>在这个步骤，主要需要注意的地方有：<br>1.在注册了自己的github账号之后要登陆自己的邮箱进行验证。<br>2.在新建代码仓库时，代码仓库的名字要写成yourname.github.io。<br><strong>在安装Node.js时</strong><br>在这个步骤，主要需要注意的地方有：<br>1.在官网下载Node.js的最新版<br>2.一路next进行安装，在安装之后，要在命令行中输入以下代码进行验证：<br><code>node -v</code><br><code>nom -v</code><br><strong>在进行与Hexo有关的相关操作时</strong><br>在这一部分需要注意的地方最多，要避开的坑主要有：<br>1.尽量要在C盘以外的地盘里创建hexo文件夹。<br>2.可以先输入以下代码在本地<a href="http://localhost4000进行预览" target="_blank" rel="noopener">http://localhost4000进行预览</a><br><code>hexo server</code><br>3.在配置-config.yml文件时，要在：之后输入空格。<br>相信在做好以上几个步骤之后，再参考教程就可以用hexo和github搭建出属于自己的博客了。</p>]]></content>
     
